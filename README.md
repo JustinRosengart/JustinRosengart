@@ -10,9 +10,12 @@ I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westph
 
 - 👨‍💻 All of my projects are available at [http://justinr.de/](http://justinr.de/#work)
 
+- 📫 How to reach me **justinrosengart@gmail.com**
+
 ## Connect with me
 
 <p align="left">
+<a href="https://twitter.com/jusendev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jusendev" height="30" width="40" /></a>
 <a href="https://discord.gg/s7WahXHqBE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="s7WahXHqBE" height="30" width="40" /></a>
 </p>
 
