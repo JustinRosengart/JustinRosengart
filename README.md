@@ -6,8 +6,6 @@ I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westph
 
 - 🔭 I’m currently working on an Open Source [virtual voice assistant](https://github.com/justinrDEV/Voice-Assistant)
 
-- 🌱 I’m currently learning **Java**
-
 - 👨‍💻 All of my projects are available at [http://justinr.de/](http://justinr.de/#work)
 
 - 📫 How to reach me **justinrosengart@gmail.com**
