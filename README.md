@@ -4,7 +4,7 @@
 
 I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westphalia, Germany
 
-- 🔭 I’m currently working on an Open Source [virtual voice assistant](https://github.com/justinrDEV/Voice-Assistant)
+- 🔭 I’m currently working on an Open Source [SmartMirror](https://github.com/justinrDEV/smart-mirror)
 
 - 👨‍💻 All of my projects are available at [http://justinr.de/](http://justinr.de/#work)
 
