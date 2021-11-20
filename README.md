@@ -10,7 +10,7 @@ I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westph
 ## Connect with me
 
 <p align="left">
-<a href="mailto:j.rosengart@gmx.de" target="blank"><img align="center" src="https://toppng.com/uploads/preview/icon-mail-png-transparent-background-mail-logo-11562851894ksatrtd2da.png" alt="s7WahXHqBE" height="30" width="40" /></a>
+<a href="mailto:j.rosengart@gmx.de" target="blank"><img align="center" src="http://168.119.29.125/assets/img/email.png" alt="s7WahXHqBE" height="61.511" width="40" /></a>
 </p>
 
 ## 🛠 Skills
