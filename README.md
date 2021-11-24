@@ -4,7 +4,7 @@
 
 I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westphalia, Germany
 
-- 🔭 I’m currently working on an Open Source [SmartMirror](https://github.com/justinrDEV/smart-mirror)
+- 🔭 I’m currently working on an Open Source [SmartMirror](https://github.com/rosenguard/smart-mirror)
 - 👨‍💻 My last project [CovidBot](https://github.com/rosenguard/covidBot)
 
 ## Connect with me
