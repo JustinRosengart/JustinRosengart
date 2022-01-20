@@ -10,7 +10,7 @@ I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westph
 ## Connect with me
 
 <p align="left">
-<a href="mailto:info@justinr.de" target="blank"><img align="center" src="https://justinr.de/assets/img/email.jpg" alt="E-Mail" height="30" width="40" /></a>
+<a href="mailto:justinrosengart@gmail.com" target="blank"><img align="center" src="https://justinr.de/assets/img/email.jpg" alt="E-Mail" height="30" width="40" /></a>
 </p>
 
 ## 🛠 Skills
