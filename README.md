@@ -4,13 +4,12 @@
 
 I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westphalia, Germany
 
-- 👨‍💻 My last project [CovidBot](https://github.com/rosenguard/covidBot)
+- 👨‍💻 My current project: [RosenCARt](https://github.com/Rosencart/rosenCARt/)
+- 👨‍💻 My last project: [CovidBot](https://github.com/rosenguard/covidBot)
 
 ## Connect with me
 
-<p align="left">
-<a href="mailto:justinrosengart@gmail.com" target="blank"><img align="center" src="https://justinr.de/assets/img/email.jpg" alt="E-Mail" height="30" width="40" /></a>
-</p>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://justinr.de)<br>
 
 ## 🛠 Skills
 
