@@ -5,7 +5,7 @@
 I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westphalia, Germany
 
 - 👨‍💻 My current project: [RosenCARt](https://github.com/Rosencart/rosenCARt/)
-- 👨‍💻 My last project: [CovidBot](https://github.com/rosenguard/covidBot)
+- 👨‍💻 My last projects: [CovidBot](https://github.com/rosenguard/covidBot), [SmartMirror](https://github.com/tbs1-project-alpha/smart-mirror)
 
 ## Connect with me
 
