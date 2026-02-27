@@ -37,8 +37,9 @@
 
 | Project                                                                  | Description                       | Tech                                                                                          |
 |--------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
-| [🌦️ ReceiptTracker](https://github.com/JustinRosengart/receipt_tracker) | ReceiptTracker                    | ![Dart](https://img.shields.io/badge/-Dart-3178C6?style=flat&logo=dart&logoColor=white)       |
-| [🦠 CovidBot](https://github.com/rosenguard/covidBot)                    | Bot providing COVID-19 statistics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [🧾 ReceiptTracker](https://github.com/JustinRosengart/receipt_tracker) | Flutter app for AI-powered receipt scanning & expense splitting | ![Dart](https://img.shields.io/badge/-Dart-00B4AB?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| [🍳 KitchenHub](https://github.com/JustinRosengart/KitchenHub)          | Your personal digital kitchen — recipes, meal planning & more  | |
+| [🦠 CovidBot](https://github.com/rosenguard/covidBot)                   | Bot providing COVID-19 statistics                              | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
