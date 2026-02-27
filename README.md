@@ -2,7 +2,7 @@
 
 # Hi there, I'm Justin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hobby+Developer+%F0%9F%92%BB;IT-Assistant+Trainee+%F0%9F%8E%93;Arduino+%26+3D+Printing+Enthusiast+%F0%9F%A4%96;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hobby+Developer+%F0%9F%92%BB;IT-Specialist+Trainee+%F0%9F%8E%93;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-justinr.de-0a66c2?style=for-the-badge)](https://justinr.de)
 [![GitHub followers](https://img.shields.io/github/followers/JustinRosengart?style=for-the-badge&logo=github&color=181717)](https://github.com/JustinRosengart)
@@ -14,9 +14,8 @@
 ## 🚀 About Me
 
 - 🏠 From **North Rhine-Westphalia, Germany**
-- 🎓 Currently training as an **IT Specialist (Fachinformatiker)**
+- 🎓 Currently training as an **IT Specialist for Software Development (Fachinformatiker Anwendungsentwicklung)**
 - 💡 Passionate **Hobby Developer** — I build things just for the fun of it
-- 🤖 Love working with **Arduino**, **3D Printing**, and tinkering with hardware
 - 🌱 Always picking up new technologies and expanding my skill set
 
 ---
@@ -26,23 +25,20 @@
 ### Languages & Web
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Hardware & Tools
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![3D Printing](https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge&logo=printables&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🌦️ Wetterstation-VP1](https://github.com/JustinRosengart/Wetterstation-VP1) | Personal weather station project | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
-| [🦠 CovidBot](https://github.com/rosenguard/covidBot) | Bot providing COVID-19 statistics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| Project                                                                  | Description                       | Tech                                                                                          |
+|--------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
+| [🌦️ ReceiptTracker](https://github.com/JustinRosengart/receipt_tracker) | ReceiptTracker                    | ![Dart](https://img.shields.io/badge/-Dart-3178C6?style=flat&logo=dart&logoColor=white)       |
+| [🦠 CovidBot](https://github.com/rosenguard/covidBot)                    | Bot providing COVID-19 statistics | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 
