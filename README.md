@@ -1,16 +1,75 @@
-# Hello there 👋, I'm Justin Rosengart
+<div align="center">
+
+# Hi there, I'm Justin 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hobby+Developer+%F0%9F%92%BB;IT-Specialist+Trainee+%F0%9F%8E%93;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-justinr.de-0a66c2?style=for-the-badge)](https://justinr.de)
+[![GitHub followers](https://img.shields.io/github/followers/JustinRosengart?style=for-the-badge&logo=github&color=181717)](https://github.com/JustinRosengart)
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-I am passionate hobby developer and IT-Assistant trainee from North Rhine-Westphalia, Germany
+- 🏠 From **North Rhine-Westphalia, Germany**
+- 🎓 Currently training as an **IT Specialist for Software Development (Fachinformatiker Anwendungsentwicklung)**
+- 💡 Passionate **Hobby Developer** — I build things just for the fun of it
+- 🌱 Always picking up new technologies and expanding my skill set
 
-- 👨‍💻 My current project/s: 
-- 👨‍💻 My last project/s: [CovidBot](https://github.com/rosenguard/covidBot)
+---
 
-## Connect with me
+## 🛠️ Tech Stack & Skills
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://justinr.de)<br>
+### Languages & Web
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🛠 Skills
+### Hardware & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://camo.githubusercontent.com/b3a1cdd20d0f308634ddd4598cdaa729c2d77047f51e66fa7206b9b4bac94c23/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <img src="https://icon-library.com/images/3d-print-icon/3d-print-icon-4.jpg" alt="3d printing" width="36" height="40"> </p>
+---
+
+## 📌 Featured Projects
+
+| Project                                                                  | Description                       | Tech                                                                                          |
+|--------------------------------------------------------------------------|-----------------------------------|-----------------------------------------------------------------------------------------------|
+| [🧾 ReceiptTracker](https://github.com/JustinRosengart/receipt_tracker) | Flutter app for AI-powered receipt scanning & expense splitting | ![Dart](https://img.shields.io/badge/-Dart-00B4AB?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
+| [🍳 KitchenHub](https://github.com/JustinRosengart/KitchenHub)          | Your personal digital kitchen — recipes, meal planning & more  | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| [🦠 CovidBot](https://github.com/rosenguard/covidBot)                   | Bot providing COVID-19 statistics                              | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JustinRosengart&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinRosengart&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JustinRosengart&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📬 Connect with Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://justinr.de)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JustinRosengart)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JustinRosengart&color=58a6ff&style=flat-square" alt="Profile views"/>
+</div>
