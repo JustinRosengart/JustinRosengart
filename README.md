@@ -14,7 +14,8 @@
 ## 🚀 About Me
 
 - 🏠 From **North Rhine-Westphalia, Germany**
-- 🎓 Currently training as an **IT Specialist for Software Development (Fachinformatiker Anwendungsentwicklung)** at Deutsche Telekom IT GmbH
+- 💼 Working as a **Support Engineer (Software Engineering I)** at **Deutsche Telekom IT GmbH**
+- 🎓 My apprenticeship is complete
 - 💡 Passionate **Hobby Developer** — I build things just for the fun of it
 - 🌱 Always picking up new technologies and expanding my skill set
 
